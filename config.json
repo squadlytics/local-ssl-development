@@ -1,0 +1,10 @@
+{
+  "Rails": {
+    "source": 3010,
+    "target": 3000
+  },
+  "React": {
+    "source": 9090,
+    "target": 8080
+  }
+}
